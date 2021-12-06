@@ -1,0 +1,14 @@
+My first data file
+Car_number : PnM�, Car_location : 1층1번째
+Car_number : PnM�, Car_location : 2층5번째
+Car_number : PnM�, Car_location : 3층10번째
+Car_number : PnM�, Car_location : 3층12번째
+Car_number : PnM�, Car_location : 2층12번째
+Car_number : PnM�, Car_location : 2층7번째
+Car_number : PnM�, Car_location : 1층11번째
+Car_number : PnM�, Car_location : 1층9번째
+Car_number : PnM�, Car_location : 1층3번째
+Car_number : PnM�, Car_location : 3층5번째
+Car_number : PnM�, Car_location : 3층6번째
+Car_number : PnM�, Car_location : 3층3번째
+Car_number : PnM�, Car_location : 2층1번째
