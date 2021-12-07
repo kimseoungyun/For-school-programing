@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main()
+int starting()
 {
-  printf("starting program");
+  printf("starting program\n");
   return 0;
 }

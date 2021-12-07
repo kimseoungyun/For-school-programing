@@ -5,6 +5,8 @@
 #define FLOOR 3
 #define numsize 8
 
+int starting();
+
 struct node{
 	char num[numsize];
 	int floor;
@@ -220,6 +222,7 @@ int main()
 	struct node* list_head=NULL;
 	int answer;	  
 	int check=1;
+	starting();
 	Resetspace();
 	File_r(&list_head);
 	while(check!=0)
